@@ -24,6 +24,9 @@
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
+<img src="https://img.shields.io/badge/raphaelaugusto@tutanota.com-D14836?style=for-the-badge&logo=Tutanota&logoColor=white"/>
+
+
 <br/><br/>
 
 ## My Development Stack
@@ -31,21 +34,21 @@
 **Application and Data**
 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React"/></code>
-<code><img height="32" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://api.framer.com/store/assets/hskang9/styled-components/artwork.png?NzU5ZmR" alt="styled components"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="50" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" alt="React"/></code>
+<code><img height="55" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="50" src="https://dantecalderon.dev/icons/styled-components.png" alt="styled components"/></code>
 
 
 **Utilities**
 
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png" alt="Insomnia"/></code>
 
 
 **DevOps**
