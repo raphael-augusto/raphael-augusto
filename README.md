@@ -4,8 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Raphael Augusto, Fullstack developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  I'm Raphael Augusto, Mobile developer  from 
   <b>Brazil</b>.
 </p>
 
@@ -21,7 +20,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/raphael-augusto-gonzaga/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 
 <img src="https://img.shields.io/badge/raphaelaugusto@tutanota.com-D14836?style=for-the-badge&logo=Tutanota&logoColor=white"/>
@@ -34,16 +33,13 @@
 **Application and Data**
 
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="50" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" alt="React"/></code>
-<code><img height="55" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="50" src="https://dantecalderon.dev/icons/styled-components.png" alt="styled components"/></code>
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
+<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
+<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
+<code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native"/></code>
+<code><img height="30" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components"/></code>
 
 
 **Utilities**
@@ -55,7 +51,7 @@
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+</code>
 
 
 **Business Tools**
