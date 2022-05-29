@@ -1,61 +1,30 @@
-# Hi, nice to meet you <img width="38" src="https://emojis.slackmojis.com/emojis/images/1450319458/131/darth_vader.png?1450319458" alt="vader" />
 
-<img align="right" width="40%" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473ymscz92dqnkfnjzkm9dm3ej46vl0fjno2ezsw5e&rid=giphy.gif" alt="github" />
+![github-header-image (2)](https://user-images.githubusercontent.com/66637194/170882954-1763909f-9864-469a-8d31-124f90decace.png)
 
-### Welcome to my page!
+# Hi there 👋, My name is Raphael Augusto
+
+I'm Raphael Augusto, Mobile developer from Brazil.
+
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Fira</p>
+<p>🌱 I'm currently learning swift</p>
+<p>📫 How to reach me? raphaelaugusto@tutanota.com</p>
+
+## 💻 Skills
 <p>
-  I'm Raphael Augusto, Mobile developer  from 
-  <b>Brazil</b>.
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img height="30" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
 </p>
 
-<br/>
-
-### Talking about Personal Stuffs
-
-- 💻 I’m currently working on FIRA;
-
-- 💬 Ask me about anything, I am happy to help;
-
-
-### Where to find me:
-
-<a href="https://www.linkedin.com/in/raphael-augusto-gonzaga/">
-  <code><img alt="My linkedin" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
-</a>
-
-<img src="https://img.shields.io/badge/raphaelaugusto@tutanota.com-D14836?style=for-the-badge&logo=Tutanota&logoColor=white"/>
-
-
-<br/><br/>
-
-## My Development Stack
-
-**Application and Data**
-
-
-<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
-<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
-<code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native"/></code>
-<code><img height="30" src="https://img2.gratispng.com/20180805/xgo/kisspng-microsoft-sql-server-logo-database-microsoft-corpo-%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-sql-server-cal-2016-%D0%B2-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4-5b672eba1d1023.7425009215334888261191.jpg" alt="SQL"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components"/></code>
-
-
-**Utilities**
-
-<code></code>
-
-
-**DevOps**
-
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-</code>
-
-
-**Business Tools**
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/www.linkedin.com/in/raphael-augusto-gonzaga"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/Raphael%20Augusto#0720"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/raphaelaugusto@tutanota.com-D14836?style=for-the-badge&logo=Tutanota&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"/>
+</p>
 
