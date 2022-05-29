@@ -7,7 +7,7 @@ I'm Raphael Augusto, Mobile developer from Brazil.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Fira</p>
-<p>🌱 I'm currently learning swift</p>
+<p>🌱 I'm currently learning Swift</p>
 <p>📫 How to reach me? raphaelaugusto@tutanota.com</p>
 
 ## 💻 Skills
