@@ -44,7 +44,7 @@
 
 **Utilities**
 
-<code><img height="32" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png" alt="Insomnia"/></code>
+<code></code>
 
 
 **DevOps**
