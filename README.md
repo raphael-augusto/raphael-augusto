@@ -5,15 +5,16 @@ I'm Raphael Augusto, Data Engineer from Brazil.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Granado | Phebo </p>
-<p>🌱 I'm currently working with SQL and Python</p>
+<p>🌱 I'm currently working with SQL and Python and Pyspark</p>
 <p>📫 How to reach me? raphael.augusto.developer@gmail.com</p>
 
 
 
 ## 💻 Skills
 <p>
-
+<img src="https://img.shields.io/badge/Databricks-FF0000.svg?style=for-the-badge&logo=Databricks&logoColor=black" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Pyspark-F67828.svg?style=for-the-badge&logo=Pyspark&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" style="margin-bottom: 4px;" height="30px">
