@@ -12,6 +12,8 @@ I'm Raphael Augusto, Data Engineer from Brazil.
 
 ## 💻 Skills
 <p>
+<img src="https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Databricks-FF0000.svg?style=for-the-badge&logo=Databricks&logoColor=black" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Pyspark-F67828.svg?style=for-the-badge&logo=Pyspark&logoColor=white" style="margin-bottom: 4px;" height="30px">
