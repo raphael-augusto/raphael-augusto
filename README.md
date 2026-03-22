@@ -5,7 +5,7 @@ I'm Raphael Augusto, Data Engineer from Brazil.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Granado | Phebo </p>
-<p>🌱 I am currently working with SQL, Python, Airflow, GCP - Google, and PySpark.</p>
+<p>🌱 I am currently working with SQL, Python, Airflow, GCP - Google and PySpark.</p>
 <p>📫 How to reach me? raphael.augusto.developer@gmail.com</p>
 
 
